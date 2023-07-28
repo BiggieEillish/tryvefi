@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043004411972",
+    "project_id": "vefi-3239c",
+    "storage_bucket": "vefi-3239c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043004411972:android:e70ff9e1eeaac81d702c11",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043004411972-d95h23fd2orik3n9544t2cb9qbpg6aph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdV5c4THMp6CfwU-Sd4KRO1whZ4zGJr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043004411972-d95h23fd2orik3n9544t2cb9qbpg6aph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
